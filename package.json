@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "blabla",
+  "main": "script.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saaayurii/Node.git"
+  },
+  "author": "Roman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saaayurii/Node/issues"
+  },
+  "homepage": "https://github.com/Saaayurii/Node#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0"
+  },
+  "dependencies": {
+    "metarhia-common": "^0.0.38"
+  }
+}
